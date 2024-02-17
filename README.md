@@ -4,7 +4,8 @@ Active911 for Node.js
 [![Build Status](https://travis-ci.org/benburwell/active911.svg)](https://travis-ci.org/benburwell/active911)
 [![npm version](https://badge.fury.io/js/active911.svg)](https://badge.fury.io/js/active911)
 
-by Ben Burwell <ben@benburwell.com>
+by [Barren Hill Volunteer Fire Co](https://barrenhill.com/)
+Original Author: Ben Burwell
 
 Installation
 ------------
