@@ -9,7 +9,7 @@ by Ben Burwell <ben@benburwell.com>
 Installation
 ------------
 
-Installation is simple: `npm install --save active911`.
+Installation is simple: `npm install --save @barrenhill/active911`.
 
 Basic Usage
 -----------
