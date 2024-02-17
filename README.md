@@ -46,17 +46,17 @@ object or an array, depending on the cardinality (e.g. `getAlerts` resolves as
 an array, while `getAlert` resolves as an object).
 
 For details on the format of the result, please see the [Active911 API
-wiki](http://wiki.active911.com/wiki/index.php/Accessing_the_API).
+wiki](https://active911.atlassian.net/wiki/spaces/AED/pages/1866825767/Accessing+the+API).
 
 Contributing
 ------------
 
 Contributions are encouraged. For a list of open issues, see
-<https://github.com/benburwell/active911/issues>.
+<https://github.com/Barren-Hill-Fire-Co/active911/issues>.
 
 More Information
 ----------------
 
 More information about the API is available on [the Active911
-wiki](http://wiki.active911.com/wiki/index.php/Active911_Developer_API).
+wiki](https://active911.atlassian.net/wiki/spaces/AED/pages/240123959/Advanced+Features#Active911-Developer-API).
 
